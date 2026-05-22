@@ -1,7 +1,7 @@
-# JxRequest
+# jxrequest
 
 ### ❗Under development
-**JxRequest** is a lightweight Java HTTP request builder library inspired by the builder pattern and fluent APIs. It simplifies the process of crafting and sending HTTP requests, and supports setting headers, query parameters, CORS, and content types with ease.
+A lightweight Java HTTP request builder library inspired by the builder pattern and fluent APIs. It simplifies the process of crafting and sending HTTP requests, and supports setting headers, query parameters, CORS, and content types with ease.
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## Installation
 
-To use JxRequest in your project, add the following dependency to your `pom.xml` if you're using Maven:
+To use this library in your project, add the following dependency to your `pom.xml` if you're using Maven:
 
 ```xml
 <dependency>
@@ -57,7 +57,7 @@ dependencies {
     implementation 'io.github.swnck:jxrequest:1.0.0'
 }
 ```
-If you're using a different build tool, you can download the JAR file from the [releases page](https://github.com/swnck/JxRequest/releases) and add it to your classpath manually.
+If you're using a different build tool, you can download the JAR file from the [releases page](https://github.com/swnck/jxrequest/releases) and add it to your classpath manually.
 
 ---
 
